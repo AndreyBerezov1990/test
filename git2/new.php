@@ -6,4 +6,4 @@
  * and open the template in the editor.
  */
 
-echo 'new123';
+echo 'new123kjfdklgjdfjk';
